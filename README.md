@@ -7,4 +7,4 @@ Dodaj:
 - 3 paragrafy z nagłówkami wypełnione treścią
 - conajmniej 2 zdjęcia i 2 linki do dowolnie wybranych stron internetowych (linki mają otwiera się w nowej zakładce)
 
-Zadaj stronie odpowiednie style w CSS
+Nadaj stronie odpowiednie style w CSS
